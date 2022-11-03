@@ -1,0 +1,20 @@
+
+
+max min
+reverse
+shuffle
+random qiymat olish
+sort
+qidirish
+
+
+
+
+
+
+massivni barcha elementlarini yig`indisi
+massivni eng katta va kichik elementlarini topish
+massivni saralash
+massivni elementini qidirish
+
+
