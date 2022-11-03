@@ -29,7 +29,7 @@ fun main() {
         4 -> println("Payshanba")
         5 -> println("Juma")
         6 -> println("Shanba")
-        7 -> println("Yakshanba")
+        7 -> println("Sunday")
         else -> {
             println("Bunday hafta kuni yok")
         }
